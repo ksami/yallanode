@@ -1,0 +1,15 @@
+{
+  "name": "yalla",
+  "version": "0.0.1",
+  "description": "yalla",
+  "dependencies": {
+    "express": "^4.4.2",
+    "socket.io": "^1.0.4",
+    "speakeasy-nlp": "^0.2.2",
+    "twit": "^1.1.19"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "app.js"
+}

@@ -1,0 +1,22 @@
+h1 {
+  background-color: #03003c;
+  color: white;
+  text-align: center;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+body {
+  background-color: #fafafa;
+  margin: 0px;
+}
+
+.container {
+  margin: 0px;
+  padding: 0px 20px 20px 20px;
+}
+
+#data {
+  margin-top: -10px;
+}
